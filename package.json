@@ -1,0 +1,25 @@
+{
+  "name": "node_homework_cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "start:watch": "node --watch index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DenisTunyk/node_homework_cli.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DenisTunyk/node_homework_cli/issues"
+  },
+  "homepage": "https://github.com/DenisTunyk/node_homework_cli#readme",
+  "keywords": [],
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
